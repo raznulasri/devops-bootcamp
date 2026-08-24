@@ -1,2 +1,4 @@
 # taip notes pembelajaran, Save (Ctrl+S)
-note phone
+phone baru
+
+# tambah baris: 
