@@ -4,4 +4,4 @@ Belajar git workflow lokal.
 Belajar makan
 minum air
 ## senarai git hari kedua
-hohohoh## Tarikh
+# - git init / git add / git commit
