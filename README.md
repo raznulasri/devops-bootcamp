@@ -1,4 +1,4 @@
-# Bootcamp Git Project
+# Bootcamp Devops - Repositori Latihan
 ## Sessi git## Tujuan
 Belajar git workflow lokal.
 Belajar makan
