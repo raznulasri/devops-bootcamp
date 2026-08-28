@@ -7,3 +7,4 @@ minum air
 # - git init / git add / git commit
 ## Tarikh
 test lazygit
+## lagi lazygit
