@@ -1,4 +1,4 @@
-# Bootcamp Git Project
+# Project Bootcamp Git 2026
 ## Sessi git## Tujuan
 Belajar git workflow lokal.
 Belajar makan
