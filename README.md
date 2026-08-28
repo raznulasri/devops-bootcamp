@@ -1,4 +1,4 @@
-# Bootcamp Devops - Repositori Latihan
+# Project Bootcamp Git 2026 - Repositori Latihan
 ## Sessi git## Tujuan
 Belajar git workflow lokal.
 Belajar makan
