@@ -9,3 +9,4 @@ minum air
 test lazygit
 ## lagi lazygit
 ## Diubah dari laptop
+## Diubah dari salinan Kedua
