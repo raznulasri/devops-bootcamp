@@ -8,3 +8,4 @@ minum air
 ## Tarikh
 test lazygit
 ## lagi lazygit
+## Diubah dari laptop
