@@ -1,8 +1,8 @@
 # Project Bootcamp Git 2026 - Repositori Latihan
 ## Sessi git## Tujuan
 Belajar git workflow lokal.
-Belajar makan
-minum air
+Belajar git environment
+dan kefahaman
 ## senarai git hari kedua
 # - git init / git add / git commit
 ## Tarikh
