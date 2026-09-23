@@ -1,3 +1,3 @@
-nameserver: xxx.ns.cloudflare.com, yyy.ns.cloudflare.com
-portfolio: username.pages.dev, www.domain-anda.com
-private-site: subdomain.domain-anda.com
+nameserver: hayes.ns.cloudflare.com, meg.ns.cloudflare.com
+portfolio: raznulasri.pages.dev, www.durianciku.my
+private-site: devops.durianciku.my
