@@ -1,4 +1,4 @@
 elastic-ip: 3.0.32.114
-web: web.durianciku (A record, proxied)
+web: web.durianciku.my (A record, proxied)
 tunnel: cloudflare2.durianciku.my
 ssl-mode: Flexible
