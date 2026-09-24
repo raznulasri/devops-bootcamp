@@ -3,7 +3,7 @@ Koleksi arahan CLI (Command Line Interface)
 
 ---
 
-## 🛠️ GITHUB 1: Remote + push
+## 🐱 GITHUB 1: Remote + push 🌿
 
 
 ```bash
@@ -113,7 +113,7 @@ gh issue list
 
 ---
 
-## 🛠️ GITHUB 2: Fork + PR
+## 🐱 GITHUB 2: Fork + PR 🔀
 
 
 ```bash
@@ -198,7 +198,7 @@ gh pr create --repo Infratify/devops-bootcamp-collab --fill
 
 ---
 
-## 🛠️ AWS 1: Account & IAM
+## 🌩️ AWS 1: Account & IAM 🔑
 
 Langkah-langkah untuk konfigurasi awal dan pengesahan identiti AWS CLI pada komputer tempatan.
 
@@ -220,7 +220,7 @@ aws sts get-caller-identity > aws1/identity.txt
 
 ---
 
-## 🌐 AWS 2: EC2 & S3
+## 🌩️ AWS 2: EC2 & S3 🖥️ 🪣
 
 Pengurusan akses SSH ke EC2, pemasangan AWS CLI di dalam server, dan operasi asas Amazon S3.
 
@@ -270,7 +270,7 @@ aws s3 rb s3://devops-\$USER-7421
 
 ---
 
-## 🔀 AWS 3: VPC
+## 🌩️ AWS 3: VPC 🌐
 
 Semakan IP awam dari dalam rangkaian dan dokumentasi komponen VPC (VPC, Subnet, Route Tables).
 
@@ -286,7 +286,7 @@ aws ec2 describe-route-tables --query "RouteTables[].RouteTableId" >> aws3/notes
 
 ---
 
-## 📦 AWS 4: ECR & Gateway
+## 🌩️ AWS 4: ECR & Gateway 📦
 
 Semakan status infrastruktur NAT Gateway, Elastic IP (EIP), dan repositori Docker (ECR).
 
@@ -302,7 +302,7 @@ aws ecr describe-repositories --query "repositories[].repositoryUri" >> aws4/not
 
 ---
 
-## ☁️ CLOUDFLARE 1
+## ☁️ CLOUDFLARE 1 ⚡
 DNS + Workers & Pages
 
 ```bash
@@ -323,7 +323,7 @@ gh pr create --fill && gh pr merge --squash --delete-branch
 
 ---
 
-## ☁️ CLOUDFLARE 2
+## ☁️ CLOUDFLARE 2 🚇
 Origin + proxy + Tunnel
 
 ```bash
@@ -345,7 +345,7 @@ gh pr create --fill && gh pr merge --squash --delete-branch
 ```
 ---
 
-## ☁️ DOCKER 1
+## 🐳 DOCKER 1 🖼️
 Docker
 
 ```bash
