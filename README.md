@@ -328,5 +328,28 @@ Origin + proxy + Tunnel
 
 ```bash
 
+cd ~/devops-bootcamp
+git checkout -b cloudflare2 && mkdir cloudflare2
+
+cat > cloudflare2/notes.txt <<EOF
+elastic-ip: 3.0.32.114
+web: web.durianciku.my (A record, proxied)
+tunnel: cloudflare2.durianciku.my
+ssl-mode: Flexible
+EOF
+
+git add . && git commit -m "Cloudflare 2: origin + proxy + tunnel"
+git push -u origin cloudflare2
+gh pr create --fill && gh pr merge --squash --delete-branch
 
 ```
+---
+
+## ☁️ DOCKER 1
+Docker
+
+```bash
+
+
+```
+---
