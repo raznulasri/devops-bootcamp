@@ -3,8 +3,3 @@
     "Account": "231438714199",
     "Arn": "arn:aws:iam::231438714199:user/raznul.razak"
 }
-{
-    "UserId": "AIDATLYWSQVLYZ3ODAYWA",
-    "Account": "231438714199",
-    "Arn": "arn:aws:iam::231438714199:user/raznul.razak"
-}
