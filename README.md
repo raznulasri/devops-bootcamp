@@ -15,8 +15,6 @@ A hands-on journey covering Linux, Git, GitHub, AWS, Cloudflare, Docker, CI/CD, 
 - Prometheus & Grafana
 
 
-CLI Command Reference
-
 
 ---
 
