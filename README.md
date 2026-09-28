@@ -1,4 +1,4 @@
-# DevOps & Cloud Immersion
+# DevOps & Cloud Immersion ranting
 
 A hands-on journey covering Linux, Git, GitHub, AWS, Cloudflare, Docker, CI/CD, Terraform, Ansible and monitoring.
 
