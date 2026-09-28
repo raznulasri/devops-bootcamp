@@ -371,7 +371,7 @@ sudo docker ps
 ```
 ---
 
-## 🐳 DOCKER 2
+## 🐳 DOCKER 2 📜
 Docker
 
 ```bash
@@ -380,7 +380,7 @@ Docker
 ```
 ---
 
-## 🐳 DOCKER 3
+## 🐳 DOCKER 3 🛢️
 Docker
 
 ```bash
