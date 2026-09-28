@@ -1,4 +1,4 @@
-# DevOps & Cloud Immersion test
+# DevOps & Cloud Immersion
 
 A hands-on journey covering Linux,
 Docker, Git, Ansible, Terraform, AWS,
