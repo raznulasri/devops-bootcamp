@@ -366,7 +366,9 @@ gh pr create --fill && gh pr merge --squash --delete-branch
 Docker
 
 ```bash
-
+curl -fsSL https://get.docker.com | sudo sh
+sudo docker run -d -p 80:8080 --name web bharathshetty4/supermario
+sudo docker ps
 
 ```
 ---
