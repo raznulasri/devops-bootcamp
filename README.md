@@ -1,3 +1,19 @@
+# DevOps & Cloud Immersion devops-cloud-immersion
+
+A hands-on journey covering Linux,
+Docker, Git, Ansible, Terraform, AWS,
+and monitoring.
+
+## Labs
+- Linux Administration
+- Docker
+- Git
+- Ansible
+- Terraform
+- AWS
+- Prometheus & Grafana
+
+
 CLI Command Reference
 
 
