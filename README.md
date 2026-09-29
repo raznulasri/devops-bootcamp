@@ -361,7 +361,7 @@ gh pr create --fill && gh pr merge --squash --delete-branch
 ---
 
 ## 🐳 DOCKER 1 🖼️
-Docker
+Container + image
 
 ```bash
 curl -fsSL https://get.docker.com | sudo sh
@@ -372,7 +372,7 @@ sudo docker ps
 ---
 
 ## 🐳 DOCKER 2 📜
-Docker
+Dockerfile + build
 
 ```bash
 
@@ -381,7 +381,7 @@ Docker
 ---
 
 ## 🐳 DOCKER 3 🛢️
-Docker
+Registry + volume
 
 ```bash
 
@@ -390,8 +390,8 @@ Docker
 ---
 
 
-## 🐳 DOCKER 4
-Docker
+## 🐳 DOCKER 4 ☸️
+Compose + k8s
 
 ```bash
 
