@@ -375,7 +375,20 @@ sudo docker ps
 Dockerfile + build
 
 ```bash
+cd ~/devops-bootcamp                                                                                   
 
+git checkout -b docker2 && mkdir docker2
+
+cp ~/devops-bootcamp-app/Dockerfile docker2
+
+cat docker2/Dockerfile > notes.txt
+docker images raznul-docker-image >> docker2/notes.txt
+docker ps >> docker2/notes.txt
+
+git add . && git commit -m "Docker 2: Dockerfile + imej"
+git push -u origin docker2
+
+gh pr create --fill && gh pr merge --squash --delete-branch
 
 ```
 ---
