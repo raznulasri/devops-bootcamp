@@ -1,0 +1,16 @@
+Docker version 29.6.2, build dfc4efb
+IMAGE                        ID             DISK USAGE   CONTENT SIZE   EXTRA
+alpine:latest                294b683cb724         13MB         3.94MB   U    
+hello-world:latest           5e2309035332       25.9kB         9.49kB   U    
+infratify/card:latest        2414f6668e83         81MB         23.1MB   U    
+nginx:alpine                 df221db836e1       94.4MB         27.2MB        
+nginx:latest                 abe47724e466        242MB         66.3MB   U    
+raznul-docker-image:latest   55d2f2aa404a        105MB         31.6MB        
+CONTAINER ID   IMAGE            COMMAND                  CREATED         STATUS                            PORTS                                     NAMES
+be0669768fff   infratify/card   "/docker-entrypoint.…"   3 minutes ago   Exited (255) About a minute ago                                             kad2
+b0a351793773   infratify/card   "/docker-entrypoint.…"   3 minutes ago   Exited (255) About a minute ago                                             kad1
+f8806a170107   nginx            "/docker-entrypoint.…"   3 minutes ago   Up 3 minutes                      0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   web
+6a0c0dfd37f5   nginx            "/docker-entrypoint.…"   4 minutes ago   Up 4 minutes                      80/tcp                                    goofy_satoshi
+11700701c789   alpine           "sh"                     4 minutes ago   Exited (0) 4 minutes ago                                                    intelligent_cohen
+05998ccb9e10   alpine           "echo 'Hello dari Al…"   5 minutes ago   Exited (0) 5 minutes ago                                                    reverent_tu
+3801b87d5534   hello-world      "/hello"                 5 minutes ago   Exited (0) 5 minutes ago                                                    happy_ride
