@@ -3,3 +3,4 @@ raznul-docker-image:latest   55d2f2aa404a        105MB         31.6MB   U
 
 CONTAINER ID   IMAGE                        COMMAND                  CREATED          STATUS          PORTS                                     NAMES
 f0a8d555bb4b   raznul-docker-image:latest   "/docker-entrypoint.…"   33 minutes ago   Up 33 minutes   0.0.0.0:5080->80/tcp, [::]:5080->80/tcp   raznul-container
+.
